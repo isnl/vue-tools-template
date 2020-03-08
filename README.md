@@ -1,6 +1,6 @@
-> 此工程为 [艾特网 - 程序员便捷工具箱](https://iiter.cn/tools) 贡献代码模板，代码上传审核成功后，我们将给予优秀工具的作者5-50元现金奖励，多劳多得。
+> 此工程为 [艾特网 - 程序员便捷工具箱](https://iiter.cn/tools) 贡献代码模板。
 
-代码贡献、上传规则详见 [https://iiter.cn/tools](https://iiter.cn/tools)
+代码上传规则详见 [https://iiter.cn/tools](https://iiter.cn/tools)
 
 > 
 
@@ -29,17 +29,13 @@ npm run serve
 打开 **src/views/MyTools.vue** 文件，在此文件中完成基础布局以及逻辑实现。
 
 ### 5.代码上传
-打开 [https://iiter.cn/tools](https://iiter.cn/tools) 点击右下角上传按钮，按照说明填写相关信息后，将 **MyTools.vue** 文件上传即可
+打开 [https://iiter.cn/tools](https://iiter.cn/tools) 点击右下角上传按钮，按照说明填写相关信息后，将 **MyTools.vue** 文件内容复制粘贴提交审核即可。
 
 
 ### 6.这里给出几个参考方向
-- 1.短网址转换。
-- 2.js解压缩、美化
-- 3.json格式化
-- 4.base64编码、解码
-- 5.图片、文件压缩等
-- 6.二维码生成(网址转二维码、二维码还原网址等)
-- 7.图片转base64、base64转图片
-- 8.等等......  
+- 1. 长网址转为短链接
+- 2. Js解压缩、美化、Json格式化
+- 3. Base64编码、解码、图片转Base64、Base64转图片、图片、文件压缩等
+- 4. 二维码生成(网址转二维码、二维码还原网址等)
 
 注：如需后台相关接口,有能力者可自行提供api。安装使用axios数据请求即可。
