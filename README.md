@@ -1,6 +1,4 @@
-> 此工程为 [艾特网 - 程序员便捷工具箱](https://iiter.cn/tools) 贡献代码模板。
-
-代码上传规则详见 [https://iiter.cn/tools](https://iiter.cn/tools)
+> 此工程为 [艾特网 - 程序员便捷工具箱](https://iiter.cn/tools) 贡献代码模板。代码上传规则详见 [https://iiter.cn/tools](https://iiter.cn/tools)
 
 > 
 
