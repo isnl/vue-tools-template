@@ -1,4 +1,4 @@
-> 此工程为 [艾特网 - 程序员便捷工具箱](https://iiter.cn/tools) 贡献代码模板。代码上传规则详见 [https://iiter.cn/tools](https://iiter.cn/tools)
+> 此工程为 [艾特网 - 程序员便捷工具箱](https://iiter.cn/tools?_blank) 贡献工具代码模板。代码上传规则详见 [https://iiter.cn/tools](https://iiter.cn/tools?_blank)
 
 > 
 
@@ -27,7 +27,7 @@ npm run serve
 打开 **src/views/MyTools.vue** 文件，在此文件中完成基础布局以及逻辑实现。
 
 ### 5.代码上传
-打开 [https://iiter.cn/tools](https://iiter.cn/tools) 点击右下角上传按钮，按照说明填写相关信息，代码栏里复制粘贴MyTools.vue中的所有内容，提交审核即可。
+打开 [https://iiter.cn/tools](https://iiter.cn/tools?_blank) 点击右下角上传按钮，按照说明填写相关信息，代码栏里复制粘贴MyTools.vue中的所有内容，提交审核即可。
 
 
 ### 6.这里给出几个参考方向
